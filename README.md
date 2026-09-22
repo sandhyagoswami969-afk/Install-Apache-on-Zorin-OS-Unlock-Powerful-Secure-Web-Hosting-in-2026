@@ -52,7 +52,7 @@ By enabling and starting the service, you guarantee that your server remains con
 Verify Apache Installation: Confirm Your Web Server is Running
 After enabling and starting the service, it’s important to confirm that everything is working correctly. This step ensures your web server is active and ready to deliver content.
 
-http://localhost if the setup is successful, you will see the default Apache [welcome page](https://rootlearning.in/). This page confirms that the server is running properly and is ready to host websites.
+http localhost if the setup is successful, you will see the default Apache [welcome page](https://rootlearning.in/). This page confirms that the server is running properly and is ready to host websites.
 
 By performing this quick check, you gain confidence that your installation is complete and your system is prepared for the next stage of configuration. It’s a simple but essential step to guarantee smooth hosting performance in 2026.
 <img width="768" height="233" alt="image" src="https://github.com/user-attachments/assets/3723a5c5-898c-4644-9fbc-6108731fcc18" />
