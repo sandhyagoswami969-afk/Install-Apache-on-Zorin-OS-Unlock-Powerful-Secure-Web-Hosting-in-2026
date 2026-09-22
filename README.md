@@ -35,7 +35,7 @@ Run Command: sudo systemctl status apache2
 System Showing Active Status
 If the service is active, you can confirm the installation by opening your web browser and visiting
 
-Use http://localhost in browser.
+Use http localhost in browser.
 <img width="768" height="389" alt="image" src="https://github.com/user-attachments/assets/f11bd3b6-8c08-4522-bf3b-b31c384f11df" />
 You should see the default Apache welcome page, which means your server is successfully installed and ready to host websites. By following this practical approach, you ensure that the decision to install Apache on Zorin OS leads to a secure and reliable hosting environment.
 
